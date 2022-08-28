@@ -1,1 +1,1 @@
-# UTLP-project
+# UTLP-project (reverse turing test)
